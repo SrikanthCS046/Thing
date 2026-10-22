@@ -1,0 +1,3 @@
+# VedaFlux AI sidecar dependencies.
+# The web UI and NestJS backend use npm/package-lock.json.
+-r ai-service/requirements.txt
